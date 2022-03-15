@@ -1,0 +1,54 @@
+#h-m-b-i{
+    position: absolute; top: 49%; left: 50%; width: 100%; transform: translate(-50%, -50%) !important;
+}
+
+/*HISTORIA*/
+.h-m-h1-title-1{
+    position: absolute; top: 15%; left: 15%; color:antiquewhite; margin: 0%; padding: 0%; font-size: 2vw ; font-weight: 200;
+    text-align: center; transform: translate(-50%, -50%) !important;
+}
+/*CZESTOCHOWY*/
+.h-m-h1-title-2{
+    position: absolute; top: 15%; left: 30%; color:antiquewhite; margin: 0%; padding: 0%; font-size: 2vw  !important; 
+    font-weight: 500; transform: translate(-50%, -50%) !important;
+}
+.h-m-h1-title-2.en{
+    left: 31% !important;
+}
+/* MIASTA NAD WARTA*/
+.h-m-h1-title-3{
+    position: absolute; top: 19%; left: 30.5%; color:antiquewhite; margin: 0%; padding: 0%; font-size: 1vw ; font-weight: 200;
+    text-align: center; transform: translate(-50%, -50%) !important;
+}
+.h-m-h1-title-3.en{
+    left: 34% !important;
+}
+
+
+
+
+#h-m-historia-1-a{
+    position: absolute; top: 35.6%; left: 17.4%; width: 15%;
+    /*transform: translate(-50%, -50%) !important;*/
+}
+
+#h-m-historia-2-a{
+    position: absolute;top: 35.7%; left: 42.45%; width: 15%; /*transform: translate(-50%, -50%) !important;*/
+}
+
+#h-m-historia-3-a{
+    position: absolute; top: 34.6%; left: 67.1%; width: 16%; /*transform: translate(-50%, -50%) !important;*/
+}
+
+.h-m-h1-historia-1{
+    position: absolute; top: 73%; left: 24%; color:antiquewhite; margin: 0%; padding: 0%; font-size: 1.7vw ; font-weight: 500;
+    text-align: center; transform: translate(-50%, -50%) !important;
+}
+.h-m-h1-historia-2{
+    position: absolute; top: 73%; left: 50%; color:antiquewhite; margin: 0%; padding: 0%; font-size: 1.7vw ; font-weight: 500;
+    text-align: center; transform: translate(-50%, -50%) !important;
+}
+.h-m-h1-historia-3{
+    position: absolute; top: 73%; left: 75.5%; color:antiquewhite; margin: 0%; padding: 0%; font-size: 1.7vw ; font-weight: 500;
+    text-align: center; transform: translate(-50%, -50%) !important;
+}

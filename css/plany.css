@@ -1,0 +1,54 @@
+#slider-plany{
+    position: absolute;
+    top: 2%;
+    left: 5%;
+    overflow: hidden;
+    width: 60%;
+    height: 80%;
+}
+    
+#slider-plany > span > img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+   height: 100%;
+    will-change: url; 
+    will-change: opacity;
+
+}
+#plany.first-column{
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;
+    
+}
+
+#plany-first-column{
+    width: 90% !important;
+}
+#plany-ramka{
+
+    width: 50%;
+    transform: translate(-50%, -50%) !important;
+    top: 35%;
+    left: 50%;
+    border: none;
+}
+#lupa-plany{
+    width: 3%;
+    left:65%;
+}
+#plany>.first-column>.left-ster{
+    left:60%;
+}
+#plany>.first-column>.right-ster{
+    left:40%;
+}
+
+#plany-title-slider{
+    text-align: justify;
+    width: 50%;
+    left:50% !important;
+    transform: translate(-50%, -50%) !important;
+}
+

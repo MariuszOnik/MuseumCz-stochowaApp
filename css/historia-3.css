@@ -1,0 +1,36 @@
+#slider-historia-3{
+    position: absolute;
+    top: 2%;
+    left: 5%;
+    overflow: hidden;
+    width: 90%;
+    height: 80%;
+}
+    
+#slider-historia-3 > span > img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+    height: 80%;
+    will-change: url; 
+    will-change: opacity;
+
+}
+#historia-3.first-column{
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;
+}
+
+
+
+
+
+#slider-historia-3 > span.image-slider-b  {
+    opacity: 0;
+}
+
+#slider-historia-3 > span.image-slider-b.active  {
+    opacity: 1;
+    transition: 1s ease-in-out;
+}

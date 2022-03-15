@@ -1,0 +1,64 @@
+
+#rynek-napis{
+    position: absolute;
+    left: 25%;
+    top: 69%;
+    font-size: 1.7vw;
+    font-weight: 500;
+    color: antiquewhite;
+    transform: translate(-50%, -50%) !important;
+}
+#plac-napis{
+    position: absolute;
+    left: 50%;
+    top: 69%;
+    font-size: 1.7vw;
+    font-weight: 500;
+    color: antiquewhite;
+    transform: translate(-50%, -50%) !important;
+}
+#mury-napis{
+    position: absolute;
+    left: 75.5%;
+    top: 69%;
+    font-size: 1.7vw;
+    font-weight: 500;
+    color: antiquewhite;
+    transform: translate(-50%, -50%) !important;
+}
+
+
+
+#rynek-img{
+    position: absolute;
+    width: 15%;
+   
+    overflow: hidden;
+    top: 35.7%;
+    left: 17.4%;
+
+}
+
+#plac-img{
+    position: absolute;
+    width: 15%;
+   
+    overflow: hidden;
+    top: 35.7%;
+    left: 42.5%;
+
+}
+
+#mury-img{
+    position: absolute;
+    width: 15%;
+   
+    overflow: hidden;
+    top: 35.7%;
+    left: 67.5%
+
+}
+
+#r-m{
+    position: absolute; top: 49%; left: 50%; width: 100%; transform: translate(-50%, -50%) !important;
+}

@@ -1,0 +1,97 @@
+.pl-button-wraper{
+    width: 3.5%;
+    position: absolute;
+   
+    /*border-radius: 50%;*/
+    top: 1%;
+    left: 85%; 
+    z-index: 1;
+}
+
+.pl-button.en{
+  
+    
+    position: absolute;
+    
+    top: 3.5%;
+    left: 90.9%;
+    height: 4%;
+    z-index: 3;
+    
+    
+
+}
+.en-button.pl{
+    position: absolute;
+    
+    top: 3.5%;
+    left: 90.9%;
+    height: 4%;
+    z-index: 3;
+}
+
+
+
+#l-s-logo-ratusz{
+    position: absolute;
+    width: 6%;
+    left: 70%;
+    top: 88.1%;
+    -webkit-transform: translate(-50%, -50%); 
+}
+#l-s-logo-chestochowa{
+    position: absolute;
+    width: 6%;
+    left: 80%;
+    top: 90%;
+    -webkit-transform: translate(-50%, -50%); 
+}
+#l-s-logo-muzeum{
+      position: absolute;
+      height: 6%;
+      left: 90%;
+      top: 90%;
+      -webkit-transform: translate(-50%, -50%);  
+}
+.l-s-PL{
+    position: absolute;
+    top: 45%;
+    left: 35%;
+    padding: 1%;
+    height: 15%;;
+    
+    -webkit-transform: translate(-50%, -50%);  
+}
+.l-s-EN{
+    position: absolute;
+    top: 45%;
+    left: 65%;
+    padding: 1%;
+    height: 15%;;
+    
+    -webkit-transform: translate(-50%, -50%);  
+}
+
+.l-s-PL-kolo{
+    position: absolute;
+    top: 27%;
+    left: 25%;
+   
+    height: 35%;;
+    border: 5px solid antiquewhite;;
+    border-radius: 50%;
+    
+    
+}
+.l-s-EN-kolo{
+    position: absolute;
+    top: 27%;
+    left: 54.8%;
+   
+    height: 35%;;
+    border: 5px solid antiquewhite;;
+    border-radius: 50%;
+    
+    
+}
+

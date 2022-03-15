@@ -1,0 +1,34 @@
+#slider-mury{
+    position: absolute;
+    top: 3%;
+    left: 5%;
+    overflow: hidden;
+    width: 90%;
+    height: 80%;
+}
+    
+#slider-mury > span > img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+    width: 90%;
+    will-change: url; 
+    will-change: opacity;
+
+}
+#slider-mury.first-column{
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;
+}
+
+
+
+#slider-mury > span.image-slider-b  {
+    opacity: 0;
+}
+
+#slider-mury > span.image-slider-b.active  {
+    opacity: 1;
+    transition: 1s ease-in-out;
+}

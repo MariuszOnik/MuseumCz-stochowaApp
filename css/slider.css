@@ -1,0 +1,101 @@
+.active-page>.slider{
+    position: absolute;
+    top: 1%;
+    left: 5%;
+    overflow: hidden;
+    width: 90%;
+    height: 80%;
+    
+}
+    
+.active-page>.first-column>.slider>span>img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+
+    height: 90%;
+    will-change: url; 
+    will-change: opacity;
+    
+
+}
+.active-page>.first-column{
+    
+    overflow-y: hidden !important;
+}
+
+
+.image-in-slider-title{
+    color: antiquewhite;
+    font-size: 1vw;
+    position: absolute;
+    margin-top: 5%;
+    padding: 0;
+    top: 64%;
+    left:5%;
+    width: 90%;
+    text-align: center;
+    font-weight: 300;
+   
+    
+    
+  }
+  
+
+.active-page>.first-column>.slider>span {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 60%;
+    border: 2px solid antiquewhite;
+    overflow: hidden !important;
+    
+}
+
+#historia-1>.first-column>.slider>span>img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+
+    width: 90% !important;
+    height: auto;
+    will-change: url; 
+    will-change: opacity;
+}
+#historia-3>.first-column>.slider>span>img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+
+    width: auto;
+    height:  80%;
+    will-change: url; 
+    will-change: opacity;
+}
+#rynek>.first-column>.slider>span>img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+
+    width: 80% !important;
+    height: auto;
+    will-change: url; 
+    will-change: opacity;
+}
+#plac-koscielny>.first-column>.slider>span>img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+
+    width: 80% !important;
+    height: auto;
+    will-change: url; 
+    will-change: opacity;
+}
+
